@@ -1,0 +1,7 @@
+{
+  "job_id": "job_81f89bd9113a",
+  "sourceRepoUrl": "https://github.com/mewebstudio/java-spring-boot-boilerplate",
+  "targetJavaVersion": "25.0.4",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
